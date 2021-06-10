@@ -1,14 +1,16 @@
 body {
   background-color:#3498db;
-  font-name:;
+  font-family: 'Aleo';
 }
 
 h1 {
   text-align:center;
+  font-family: 'Alfa Slab One';
 }
 
 h2 {
   text-align:left;
+  font-family: 'Audiowide';
 }
 
 .title-desc {
